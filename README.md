@@ -1,5 +1,5 @@
 # Hi 👋, I'm Pragya  
-A Passionate Frontend Developer & UI/UX Enthusiast from Raipur  
+A Passionate Frontend Developer & UI/UX Enthusiast 
 
 🌱 I’m currently growing my skills in React.js and modern web development  
 
