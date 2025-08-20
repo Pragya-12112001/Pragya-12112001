@@ -1,16 +1,17 @@
 # Hi 👋, I'm Pragya  
-A Passionate Frontend Developer & UI/UX Enthusiast 
+A Passionate Frontend Developer & UI/UX Enthusiast  
 
 🌱 I’m currently growing my skills in React.js and modern web development  
 
-👨‍💻 My Portfolio: [Check Here]([https://your-portfolio-link.com](https://portfolio-xi-three-11.vercel.app/))  
+👨‍💻 My Portfolio: <a href="https://portfolio-xi-three-11.vercel.app/" target="_blank">Check Here</a>  
 
 📫 How to reach me: **samadhiyapragya75@gmail.com**  
 
 ---
 
 ## Connect with me  
-[LinkedIn]([https://www.linkedin.com/in/pragya-samadhiya](https://www.linkedin.com/in/pragya-samadhiya-a36625242/)) | [GitHub]([https://github.com/Pragya-12112001](https://github.com/Pragya-12112001))  
+<a href="https://www.linkedin.com/in/pragya-samadhiya-a36625242/" target="_blank">LinkedIn</a> | 
+<a href="https://github.com/Pragya-12112001" target="_blank">GitHub</a>  
 
 ---
 
