@@ -1,7 +1,8 @@
 # Hi 👋, I'm Pragya  
-A Passionate Frontend Developer & UI/UX Enthusiast  
+A Passionate Frontend Developer, UI/UX Enthusiast & Budding Data Analyst  
 
-🌱 I’m currently growing my skills in React.js and modern web development  
+🌱 I’m currently growing my skills in **React.js** and modern web development  
+📊 Exploring the world of **Excel, Power BI, SQL, and Data Visualization** to bridge code with insights  
 
 👨‍💻 My Portfolio: <a href="https://portfolio-xi-three-11.vercel.app/" target="_blank">Check Here</a>  
 
@@ -17,7 +18,7 @@ A Passionate Frontend Developer & UI/UX Enthusiast
 
 ## 🛠️ Languages and Tools  
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
